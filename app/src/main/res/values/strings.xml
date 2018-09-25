@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPA_Calculator_Kapish</string>
+    <string name="gpa1">GPA 1</string>
+    <string name="gpa2">GPA 2</string>
+    <string name="gpa3">GPA 3</string>
+    <string name="gpa4">GPA 4</string>
+    <string name="gpa5">GPA 5</string>
+    <string name="CalcGpa">Calculate GPA</string>
+</resources>

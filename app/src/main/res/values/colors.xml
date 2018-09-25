@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lowGPA">#D40C00</color>
+    <color name="midGPA">#FFCD00</color>
+    <color name="highGPA">#32C12C</color>
+    <color name="clear">#FFFFFF</color>
+    <color name="error">#990000</color>
+</resources>
